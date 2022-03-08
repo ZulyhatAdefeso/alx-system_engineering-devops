@@ -1,2 +1,5 @@
-#!/bin/bash
+#!bin/bash
 su betty
+-l 0-iam_betty
+2 0-iam_betty
+chmod u+x 0-iam_betty
